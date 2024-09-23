@@ -1,5 +1,5 @@
 - 👋 Hello, I'm @NerimMon
-- 👀 I am interested in learning different languages ​​more easily every day 
+- 👀 I am interested in learning different programming languages ​​more easily every day.
 - 🌱 I am currently learning JAVA 
 - 😄 Pronouns: Neri
 - 🤞 Little programmer in process
